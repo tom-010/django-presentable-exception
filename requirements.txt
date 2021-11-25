@@ -1,0 +1,5 @@
+Django==3.2.9
+djangorestframework==3.12.4
+find-class==0.0.1
+exception-safe==0.0.3
+pytest==6.2.5
